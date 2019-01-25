@@ -1,0 +1,22 @@
+@media all and (min-width: 992px) {
+
+    html {
+    }
+    body {
+        text-align: center;
+
+    }
+    #wrapper {
+        width: 754px;
+    }
+    #container {
+        grid-template-columns: 116px 485px 153px;
+    }
+    #kolom0 {
+        display: block;
+    }
+
+
+
+
+}

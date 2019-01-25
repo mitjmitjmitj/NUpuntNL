@@ -1,0 +1,15 @@
+@media all and (min-width: 768px) {
+
+    html {
+    }
+    #wrapper {
+        width: 100%;
+    }
+    #container {
+        grid-template-columns: 60% 40%;
+    }
+
+
+
+
+}

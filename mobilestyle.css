@@ -1,0 +1,68 @@
+* {
+    /*border: dotted 1px black;*/
+}
+
+html {
+    font-family: "Noto Sans",sans-serif;
+}
+body {
+    height: 100vh;
+}
+#wrapper {
+    height: 100%;
+    margin: 0 auto;
+}
+nav {
+    height: 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img {
+    border-radius: 5px;
+}
+#warning {
+    height: 80px;
+}
+#container {
+    display: grid;
+    min-height: 100%;
+}
+#kolom0 {
+    display: none;
+}
+#links {
+    display: flex;
+    width: 500px;
+}
+#links i {
+    background: #EAEFFA;
+    color: darkblue;
+    margin: 0;
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+#logo {
+    height: 50px;
+    margin: 0 10px;
+}
+#rechts i {
+    color: white;
+    background: darkblue;
+    border-radius: 50%;
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
